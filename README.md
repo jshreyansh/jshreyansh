@@ -1,8 +1,8 @@
 # Hi, I'm Shreyans 👋
 
-🇮🇳 Builder | AI Products × Native Apps × Agentic Systems
+🇮🇳 Builder | Co-founder [@SwishX](https://github.com/swishx-ai) | AI Products × Native Apps × Agentic Systems
 
-I build full products — from idea to shipped. Currently deep in AI agents, macOS tooling, and enterprise SaaS.
+I build full products — from zero to shipped. Currently deep in pharma AI, macOS tooling, and agentic systems.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
@@ -16,28 +16,26 @@ I build full products — from idea to shipped. Currently deep in AI agents, mac
 
 ## What I'm Building
 
-### AI Products (SwishX)
-SwishX is an agentic AI platform for Life Sciences & Pharma.
+### SwishX — Agentic AI for Life Sciences
+I co-founded SwishX to bring AI agents into pharma workflows.
 
-- 💊 **[Contract IQ](https://github.com/jshreyansh/swishx-contractiq-pharma-admin)** — Pharma contract intelligence & admin
-- 📊 **Tender IQ** — AI-powered tender analysis
+- 💊 **[Contract IQ](https://github.com/jshreyansh/swishx-contractiq-pharma-admin)** — Pharma contract intelligence & admin platform
+- 📊 **Tender IQ** — AI-powered tender analysis & response
 - 📣 **Marketing IQ** — Compliant pharma marketing automation
 - 📡 **Channel IQ** — Distribution channel analytics
 
-### Developer Tooling
+### Developer Tools
 - 🔲 **[TopDawg](https://github.com/jshreyansh/TopDawg)** — macOS Dynamic Notch command center for Claude Code sessions (Swift/SwiftUI)
-- 🔌 **[vector-mcp](https://github.com/jshreyansh/vector-mcp)** — MCP server for Vector — manage tasks, threads & standups from your coding agent
-- 🎬 **[open-agentic-video-editor](https://github.com/jshreyansh/open-agentic-video-editor)** — Agentic AI video editor with multi-turn tool-calling
+- 🔌 **[vector-mcp](https://github.com/jshreyansh/vector-mcp)** — MCP server — manage tasks, threads & standups from your coding agent
+- 🎬 **[open-agentic-video-editor](https://github.com/jshreyansh/open-agentic-video-editor)** — Agentic AI video editor with multi-turn tool-calling loop
 
-### Apps
+### Apps & Products
 - 🧠 **[BrainDump](https://github.com/jshreyansh/BrainDump)** — Capture thoughts instantly on macOS (Swift)
-- 🖥️ **CentraIQ** — A new way to access computers (computer use)
-- 🎥 **ContentForge** — Remotion-based AI portrait video generation pipeline (TTS + animated scenes + audio)
-
-### Past Builds
-- 💃 **MovesIQ / iDance** — Dance learning made easy
+- 💃 **Dance Buddy (iDance)** — Dance learning made easy for everyone
+- 🖥️ **CentraIQ** — A new way to access computers (computer use + AI)
+- 🎥 **ContentForge** — AI portrait video pipeline (Remotion + TTS + animated scenes)
+- 📦 **Vector** — Agentic project management with MCP
 - 🛍️ **MyStall** — Hyperlocal marketplace app
-- 📈 **goDigit** — Dashboard & analytics tooling
 
 ---
 
@@ -47,13 +45,14 @@ SwishX is an agentic AI platform for Life Sciences & Pharma.
 |---|---|
 | Frontend | TypeScript · React · Next.js · SwiftUI |
 | Backend | Python · Node.js · FastAPI |
-| AI/Agents | Claude · MCP · Agentic pipelines |
+| AI / Agents | Claude · MCP · Agentic pipelines |
 | Native | Swift · SwiftUI · macOS |
 | Infra | Vercel · Supabase |
 
 ---
 
-## Reach Me
+## Find Me
 
+- 🐦 [x.com/shreya_jais101](https://x.com/shreya_jais101)
+- 💼 [linkedin.com/in/shreyansh-jaiswal34](https://www.linkedin.com/in/shreyansh-jaiswal34/)
 - 📧 jshreyansh34@gmail.com
-- 🐙 github.com/jshreyansh
