@@ -52,17 +52,15 @@ I build full products from zero to shipped — usually before the idea makes com
 
 ### Past Builds
 - 🛍️ **MyStall** — Hyperlocal marketplace app (early experiment)
-- 📈 **goDigit** — Analytics dashboard tooling
 
 ---
 
 ## What I'm Doing
 
-- **Living inside Claude Code** — building tools to make agentic development faster and more native-feeling on macOS
+- **Living inside Terminal** — building tools to make agentic development faster and more native-feeling on macOS
 - **Shipping fast, then fixing** — full products in days, client-grade work in weeks
-- **Exploring MCP** — connecting coding agents to real project state via vector-mcp and custom servers
-- **Building for pharma** — taking AI agents into a domain that genuinely needs them (contracts, tenders, compliance)
-- **Native macOS as a side obsession** — Swift/SwiftUI for tools that feel right, not just look right
+- **Exploring MCP** — connecting coding agents to real project to see whats possible to push forward
+- **Native apps as a side obsession** —  tools that feel right, not just look right
 
 ---
 
