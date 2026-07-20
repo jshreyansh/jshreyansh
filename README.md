@@ -1,6 +1,6 @@
 # Hi, I'm Shreyansh Jaiswal 👋
 
-🇮🇳 Builder from India | AI Products × Agentic Systems × macOS | TypeScript + Swift + Python
+🇮🇳 Builder from India | AI Products × Agentic Systems | TypeScript + Swift + Python
 
 I build full products from zero to shipped — usually before the idea makes complete sense. Currently deep in Claude Code workflows, MCP tooling, and agentic pipelines.
 
