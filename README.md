@@ -1,4 +1,4 @@
-# Hi, I'm Shreyans 👋
+# Hi, I'm Shreyansh Jaiswal 👋
 
 🇮🇳 Builder from India | AI Products × Agentic Systems × macOS | TypeScript + Swift + Python
 
