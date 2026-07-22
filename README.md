@@ -44,12 +44,6 @@ I build full products from zero to shipped — usually before the idea makes com
 - 🎥 **ContentForge** — Fully automated portrait video pipeline from script to finished reel
 - 📦 **Vector** — Project management built for agentic teams
 
-### Client Work
-- 💊 **[Contract IQ](https://github.com/jshreyansh/swishx-contractiq-pharma-admin)** — Pharma contract intelligence platform, built for SwishX
-- 📊 **Tender IQ** — AI-powered tender analysis & response, built for SwishX
-- 📣 **Marketing IQ** — Compliant pharma marketing automation, built for SwishX
-- 📡 **Channel IQ** — Distribution channel analytics, built for SwishX
-
 ### Past Builds
 - 🛍️ **MyStall** — Hyperlocal marketplace app (early experiment)
 
